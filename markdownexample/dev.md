@@ -1,3 +1,14 @@
+code block
+``` html
+<p>Hello world! This is HTML5 Boilerplate.</p>
+  <script src="js/vendor/modernizr-3.12.0.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  </div>
+<p>
+````
+
+
 Android | IOS | Windows
 --- | :---: | ---:
 Medium app for Android | *Medium app for IOS* | **Medium app for Windows**
